@@ -10,7 +10,7 @@
 <channel>
 	<title>Third International Summer Institute on Network Physiology</title>
 	<atom:link href="https://isinp.github.io/isinp3/feed/" rel="self" type="application/rss+xml" />
-	<link>https://isinp.github.io/isinp3</link>
+	<link>https://isinp.github.io/isinp3/</link>
 	<description></description>
 	<lastBuildDate>Fri, 13 Sep 2024 14:44:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,5 +19,13 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/icon.png</url>
+	<title>Third International Summer Institute on Network Physiology</title>
+	<link>https://isinp.github.io/isinp3/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
