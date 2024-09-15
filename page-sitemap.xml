@@ -1,192 +1,192 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://isinp.github.io/isinp3/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://isinp.github.io/isinp-3/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://isinp.github.io/isinp3/</loc>
-		<lastmod>2024-09-13T13:54:13+00:00</lastmod>
+		<loc>https://isinp.github.io/isinp-3/</loc>
+		<lastmod>2024-09-15T00:07:37+00:00</lastmod>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Network_physiology_700px.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-1.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Physiology-image-800px.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Physiology-image-800px.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/logos_in_the_end_600px.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/logos_in_the_end_600px.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp3/photo/</loc>
+		<loc>https://isinp.github.io/isinp-3/photo/</loc>
 		<lastmod>2024-09-10T21:57:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp3/participants/</loc>
+		<loc>https://isinp.github.io/isinp-3/participants/</loc>
 		<lastmod>2024-09-12T11:09:59+00:00</lastmod>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Network_physiology_700px-6.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-6.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-5.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-5.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-5.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-5.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp3/speakers/</loc>
+		<loc>https://isinp.github.io/isinp-3/speakers/</loc>
 		<lastmod>2024-09-13T13:22:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Network_physiology_700px-2.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-1.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-4.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-4.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/balague_natalia.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/balague_natalia.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Ronny-1.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Ronny-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Gorana.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Gorana.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Franca.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Franca.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Physiology-image-800px-1.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Physiology-image-800px-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp3/application-deadlines/</loc>
+		<loc>https://isinp.github.io/isinp-3/application-deadlines/</loc>
 		<lastmod>2024-09-13T13:23:19+00:00</lastmod>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Network_physiology_700px-7.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-7.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-6.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-6.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-6.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-6.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp3/application-form/</loc>
+		<loc>https://isinp.github.io/isinp-3/application-form/</loc>
 		<lastmod>2024-09-13T13:24:28+00:00</lastmod>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Network_physiology_700px-8.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-8.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-7.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-7.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-7.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-7.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp3/contact-us/</loc>
+		<loc>https://isinp.github.io/isinp-3/contact-us/</loc>
 		<lastmod>2024-09-13T13:26:22+00:00</lastmod>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Network_physiology_700px-11.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-11.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-10.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-10.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-10.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-10.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp3/venue-accommodation/</loc>
+		<loc>https://isinp.github.io/isinp-3/venue-accommodation/</loc>
 		<lastmod>2024-09-13T13:55:54+00:00</lastmod>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Network_physiology_700px-10.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-10.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-9.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-9.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-9.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-9.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/villa-sucota-como_400px-2.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/villa-sucota-como_400px-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp3/program/</loc>
+		<loc>https://isinp.github.io/isinp-3/program/</loc>
 		<lastmod>2024-09-13T14:15:55+00:00</lastmod>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Network_physiology_700px-4.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-3.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/first_page_booklet_2022_page_800px.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/first_page_booklet_2022_page_800px.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/timetableProgramma200722.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/timetableProgramma200722.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/image-2.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/image-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp3/registration-form/</loc>
+		<loc>https://isinp.github.io/isinp-3/registration-form/</loc>
 		<lastmod>2024-09-13T14:41:49+00:00</lastmod>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Network_physiology_700px-9.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-9.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-8.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-8.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-8.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-8.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp3/school-director/</loc>
+		<loc>https://isinp.github.io/isinp-3/school-director/</loc>
 		<lastmod>2024-09-13T14:43:13+00:00</lastmod>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Network_physiology_700px-5.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-5.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-4.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-4.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-3.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Plamen_200px-2.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Plamen_200px-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp3/poster_announcements/</loc>
+		<loc>https://isinp.github.io/isinp-3/poster_announcements/</loc>
 		<lastmod>2024-09-13T14:44:39+00:00</lastmod>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Network_physiology_700px-3.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-2.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-2.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Ivanov-Network-Physiology-Poster-08022022_800px.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Ivanov-Network-Physiology-Poster-08022022_800px.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp3/wp-content/uploads/2024/09/Frontiers_Network_Physiology_logo.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Frontiers_Network_Physiology_logo.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
