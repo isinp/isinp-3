@@ -37,34 +37,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp-3/speakers/</loc>
-		<lastmod>2024-09-13T13:22:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/balague_natalia.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Ronny-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Gorana.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Franca.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Physiology-image-800px-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://isinp.github.io/isinp-3/application-deadlines/</loc>
 		<lastmod>2024-09-13T13:23:19+00:00</lastmod>
 		<image:image>
@@ -187,6 +159,37 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/image-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://isinp.github.io/isinp-3/speakers/</loc>
+		<lastmod>2024-09-18T14:37:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/balague_natalia.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Ronny-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Gorana.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Rossella.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Franca.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Physiology-image-800px-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
