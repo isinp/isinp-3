@@ -24,19 +24,6 @@
 		<lastmod>2024-09-10T21:57:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp-3/participants/</loc>
-		<lastmod>2024-09-12T11:09:59+00:00</lastmod>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-6.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-5.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-5.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://isinp.github.io/isinp-3/application-deadlines/</loc>
 		<lastmod>2024-09-13T13:23:19+00:00</lastmod>
 		<image:image>
@@ -163,7 +150,7 @@
 	</url>
 	<url>
 		<loc>https://isinp.github.io/isinp-3/speakers/</loc>
-		<lastmod>2024-09-18T14:37:29+00:00</lastmod>
+		<lastmod>2024-09-18T14:43:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-2.jpg</image:loc>
 		</image:image>
@@ -190,6 +177,22 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Physiology-image-800px-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://isinp.github.io/isinp-3/participants/</loc>
+		<lastmod>2024-09-21T21:25:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/DSC_0459_cropped.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
