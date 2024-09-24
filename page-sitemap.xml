@@ -108,28 +108,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp-3/program/</loc>
-		<lastmod>2024-09-15T21:34:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/first_page_booklet_2022_page_800px.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/timetableProgramma200722.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/image-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://isinp.github.io/isinp-3/speakers/</loc>
 		<lastmod>2024-09-18T14:43:33+00:00</lastmod>
 		<image:image>
@@ -193,6 +171,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Frontiers_Network_Physiology_logo.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://isinp.github.io/isinp-3/program/</loc>
+		<lastmod>2024-09-24T21:40:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/first_page_booklet_2022_page_800px.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/timetableProgramma200722.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/image-2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
