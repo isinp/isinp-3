@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://isinp.github.io/isinp-3/</loc>
-		<lastmod>2024-10-03T09:13:24+00:00</lastmod>
+		<lastmod>2024-10-03T10:00:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px.jpg</image:loc>
 		</image:image>
@@ -19,7 +19,7 @@
 			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Physiology-image-800px.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/logos_in_the_end_600px.png</image:loc>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/logos_in_the_end_600px.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -76,22 +76,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-8.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://isinp.github.io/isinp-3/school-director/</loc>
-		<lastmod>2024-10-03T09:14:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-5.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/frontiers_in_NP_logo_800px-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/Fondazione_Alssandro_Volta_long_logo_800px-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Plamen_200px-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -196,6 +180,22 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Frontiers_Network_Physiology_logo.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://isinp.github.io/isinp-3/school-director/</loc>
+		<lastmod>2024-10-03T09:50:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Network_physiology_700px-5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/frontiers_in_NP_logo_800px-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/Fondazione_Alssandro_Volta_long_logo_800px-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Plamen_200px-2.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
