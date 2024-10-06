@@ -83,47 +83,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp-3/program/</loc>
-		<lastmod>2024-10-06T09:28:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/Network_physiology_logo_350px.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/frontiers_in_NP_logo_500px.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/Fondazione_Alssandro_Volta_long_logo_500px.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/first_page_booklet_2022_page_800px.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/timetableProgramma200722.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/image-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://isinp.github.io/isinp-3/poster_announcements/</loc>
-		<lastmod>2024-10-06T09:30:17+00:00</lastmod>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/Network_physiology_logo_350px.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/frontiers_in_NP_logo_500px.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/Fondazione_Alssandro_Volta_long_logo_500px.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/ISINP-2022-Poster_800px-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Frontiers_Network_Physiology_logo.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://isinp.github.io/isinp-3/participants/</loc>
 		<lastmod>2024-10-06T09:34:49+00:00</lastmod>
 		<image:image>
@@ -192,6 +151,47 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/villa-sucota-como_400px-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://isinp.github.io/isinp-3/poster_announcements/</loc>
+		<lastmod>2024-10-06T09:53:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/Network_physiology_logo_350px.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/frontiers_in_NP_logo_500px.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/Fondazione_Alssandro_Volta_long_logo_500px.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/ISINP-2022-Poster_800px-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/Frontiers_Network_Physiology_logo.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://isinp.github.io/isinp-3/program/</loc>
+		<lastmod>2024-10-06T10:42:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/Network_physiology_logo_350px.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/frontiers_in_NP_logo_500px.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/10/Fondazione_Alssandro_Volta_long_logo_500px.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/first_page_booklet_2022_page_800px.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/timetableProgramma200722.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-3/wp-content/uploads/2024/09/image-2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
