@@ -456,7 +456,7 @@ fb_IMG_sections.each(function(){jQuery(this).find(fb_IMG_select).attr('rel','gal
 jQuery('a.fancybox,area.fancybox,.fancybox>a').each(function(){jQuery(this).fancybox(jQuery.extend(true,{},fb_opts,{'transition':'elastic','transitionIn':'elastic','transitionOut':'elastic','opacity':false,'hideOnContentClick':false,'titleShow':true,'titlePosition':'over','titleFromAlt':true,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false,'mouseWheel':'true','changeSpeed':250,'changeFade':300}))});
 /* PDF */
 jQuery('a[href*=".pdf" i],area[href*=".pdf" i]').not('.nofancybox,li.nofancybox>a').addClass('fancybox-pdf');
-jQuery('a.fancybox-pdf,area.fancybox-pdf,.fancybox-pdf>a').each(function(){jQuery(this).fancybox(jQuery.extend(true,{},fb_opts,{'type':'iframe','onStart':function(a,i,o){o.type='pdf';},'width':'90%','height':'90%','padding':10,'titleShow':false,'titlePosition':'float','titleFromAlt':true,'autoDimensions':false,'scrolling':'no'}))});
+jQuery('a.fancybox-pdf,area.fancybox-pdf,.fancybox-pdf>a').each(function(){jQuery(this).fancybox(jQuery.extend(true,{},fb_opts,{'type':'iframe','width':'90%','height':'90%','padding':10,'titleShow':false,'titlePosition':'float','titleFromAlt':true,'autoDimensions':false,'scrolling':'no'}))});
 };};
 jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);</script>
 <script src="https://isinp.github.io/isinp-3/wp-content/plugins/easy-fancybox/vendor/jquery.easing.min.js?ver=1.4.1" id="jquery-easing-js"></script>
